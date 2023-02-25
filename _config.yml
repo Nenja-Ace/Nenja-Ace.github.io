@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Abdallah"
-  avatar : "/assets/images/abd.jpg"
+  avatar : "/assets/images/site_data/abd.jpg"
   bio    : "Info Sec guy intreseted in bug bounty hunting, Web penetretion testing and also CTF player"
   links:
     - label: "Website"
