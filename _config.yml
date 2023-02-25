@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Abdallah"
   avatar : "/assets/images/abd.jpg"
-  bio    : "Info Sec guy intreseted in bug bounty hunting, Web applications penetretion testing and CTF player"
+  bio    : "Info Sec guy intreseted in bug bounty hunting, Web penetretion testing and also CTF player"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -115,4 +115,4 @@ tag_archive:
   path: /tags/
 
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: dark"
+# minimal_mistakes_skin: dark"
